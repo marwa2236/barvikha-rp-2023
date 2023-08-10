@@ -37,10 +37,10 @@
    ],
 
 "download_dialog_txt":"download text from server",
-"banner_network_choice":"vungle", 
-"interstisial_network_choice":"vungle", 
-"reward_network_choice":"vungle",
-"native_network_choice":"admob"
+"banner_network_choice":"unity", 
+"interstisial_network_choice":"unity", 
+"reward_network_choice":"unity",
+"native_network_choice":"unity"
   
 
 },
