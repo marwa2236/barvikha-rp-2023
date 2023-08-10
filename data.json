@@ -45,13 +45,25 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":""Barvikha RP" is a unique role-playing game that transports players into a richly detailed virtual world filled with intrigue, social interactions, and complex narratives. Set in the fictional city of Barvikha, players step into the shoes of diverse characters, each with their own goals, backgrounds, and personalities. The game offers a highly immersive experience where choices matter, relationships are forged, and stories unfold.
+
+",
+   "photo1":"https://iili.io/HDHXiOv.jpg"},
+  {"desc2":"Players begin their journey by crafting their own characters, tailoring their appearance, skills, and backgrounds to their preferences. The customization options are extensive, allowing players to create unique personas that fit seamlessly into the world of Barvikha.
+
+","photo2":"https://iili.io/HDHXP5J.jpg"},
+  {"desc3":"Barvikha is a bustling city with various districts, each possessing its own distinct atmosphere and culture. From the opulent high society quarters to the gritty back alleys, players are free to explore and interact with the environment. The open world is brimming with hidden secrets, quests, and opportunities for discovery.
+
+","photo3":"https://iili.io/HDHXsbR.jpg"},
+  {"desc4":"The heart of "Barvikha RP" lies in its intricate and interconnected storylines. Players can engage in personal quests, unravel mysteries, and participate in epic narratives that shape the fate of the city. Choices made by players have a significant impact on the progression of these stories, leading to multiple branching paths and endings.
+
+","photo4":"https://iili.io/HDHX6Ja.jpg"},
+  {"desc5":"The heart of "Barvikha RP" lies in its intricate and interconnected storylines. Players can engage in personal quests, unravel mysteries, and participate in epic narratives that shape the fate of the city. Choices made by players have a significant impact on the progression of these stories, leading to multiple branching paths and endings.
+
+","photo5":"https://iili.io/HDHXQxp.jpg"},
+  {"descd":""Barvikha RP" offers a wide array of professions and lifestyle choices for players to pursue. Whether you want to become a skilled craftsman, a charismatic politician, a cunning criminal, or a renowned artist, the game allows you to follow your desired path. Each profession comes with its own set of challenges and opportunities.
+
+","photod":"https://iili.io/HDHXZWN.jpg"}
    ]
  
 }
