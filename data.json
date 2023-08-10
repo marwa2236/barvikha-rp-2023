@@ -1,53 +1,58 @@
 {"ads":{
+  
 
+"unity_inter":"Interstitial_Android",
+"unity_banner":"Banner_Android",
+"unity_reward":"Rewarded_Android",
+"unity_gameid":"5082535",
+ 
 
-  "unity_inter":"Interstitial_Android",
-  "unity_banner":"Banner_Android",
-  "unity_reward":"Rewarded_Android",
-  "unity_gameid":"5082535",
+"facebook_inter":"IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
+"facebook_banner":"IMG_16_9_APP_INSTALL#1444095999348608_1508844899540384",
+"facebook_native":"IMG_16_9_APP_INSTALL#1444095999348608_1526320831126124",
+"facebook_reward":"PLAYABLE#1444095999348608_1582552458836294",
+  
 
+"admob_inter":"ca-app-pub-3940256099942544/1033173712",
+"admob_banner":"ca-app-pub-3940256099942544/6300978111",
+"admob_native":"ca-app-pub-3940256099942544/2247696110",
+"admob_reward":"ca-app-pub-3940256099942544/5224354917",
+  
+  
+"yandex_banner":"R-M-DEMO-320x100",
+"yandex_inter":"R-M-DEMO-interstitial",
+"yandex_native":"R-M-DEMO-native-i",
+"yandex_reward":"demo-rewarded-yandex",
+  
+"vungle_appid":"645e64defe20a95ccb12bd7b ",
+"vungle_inter":"INTER-5944534",
+"vungle_banner":"DEFAULTBANNER-5844358",
+"vungle_reward":"REWARD-7025613",
 
-  "facebook_inter":"IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
-  "facebook_banner":"IMG_16_9_APP_INSTALL#1444095999348608_1508844899540384",
-  "facebook_native":"IMG_16_9_APP_INSTALL#1444095999348608_1526320831126124",
-  "facebook_reward":"PLAYABLE#1444095999348608_1582552458836294",
+  
+ "more_apps_info":[
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
+  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+   ],
 
-
-  "admob_inter":"ca-app-pub-3940256099942544/1033173712",
-  "admob_banner":"ca-app-pub-3940256099942544/6300978111",
-  "admob_native":"ca-app-pub-3940256099942544/2247696110",
-  "admob_reward":"ca-app-pub-3940256099942544/5224354917",
-
-
-  "yandex_banner":"R-M-DEMO-320x100",
-  "yandex_inter":"R-M-DEMO-interstitial",
-  "yandex_native":"R-M-DEMO-native-i",
-  "yandex_reward":"demo-rewarded-yandex",
-
-  "vungle_appid":"645e64defe20a95ccb12bd7b ",
-  "vungle_inter":"INTER-5944534",
-  "vungle_banner":"DEFAULTBANNER-5844358",
-  "vungle_reward":"REWARD-7025613",
-
-
-
-  "download_dialog_txt":"download text from server",
-  "banner_network_choice":"vungle",
-  "interstisial_network_choice":"vungle",
-  "reward_network_choice":"vungle",
-  "native_network_choice":"admob"
-
+"download_dialog_txt":"download text from server",
+"banner_network_choice":"vungle", 
+"interstisial_network_choice":"vungle", 
+"reward_network_choice":"vungle",
+"native_network_choice":"admob"
+  
 
 },
   "my_data":[
-    {"desc1":"In the realm of role-playing games, Barvikha RP has established itself as a true titan, captivating players with its immersive world, intricate storytelling, and endless possibilities. As we step into the year 2023, the game continues to evolve, pushing the boundaries of fantasy gaming and redefining the genre. In this article, we will explore the highlights of Barvikha RP in 2023, shedding light on the new features, expansions, and community-driven initiatives that have propelled it to even greater heights."},
-    {"desc2":"An Expanding Universe"},
-    {"desc3":"In 2023, Barvikha RP has witnessed unprecedented growth, with the developers tirelessly expanding the already vast universe of the game. New realms, continents, and dungeons have been introduced, offering players uncharted territories to explore and conquer. Each new expansion brings fresh challenges, rewards, and lore, contributing to the game's rich and diverse tapestry."},
-    {"desc4":"One of the most beloved aspects of Barvikha RP is its narrative-driven gameplay, where players' choices profoundly impact the unfolding story. In 2023, the game takes this concept to new heights, with dynamically evolving storylines that react to players' decisions in real-time. Quests are now more engaging and responsive, offering unexpected twists and branching paths, making every playthrough a unique and personalized experience."},
-    {"desc5":"Barvikha RP has always been praised for its extensive character customization options, and in 2023, the developers have outdone themselves. Players can now fine-tune their avatars with a staggering level of detail, allowing them to create truly unique and lifelike characters. From facial features to armor details, the game empowers players to express their individuality like never before."},
-    {"desc6":"A defining feature of Barvikha RP 2023 is its player-driven economy and political systems. The game fosters a dynamic virtual society where players can engage in trade, establish businesses, and participate in the political landscape. The decisions made by players in economic matters and political alliances have a tangible impact on the game world, giving rise to emergent gameplay and fostering a sense of ownership over the virtual realm."},
-    {"desc7":"In 2023, the Barvikha RP community has grown into a vibrant and supportive network of players. To celebrate this thriving community, the developers regularly host in-game events, competitions, and festivals. These gatherings not only offer exciting challenges and rewards but also promote camaraderie and a spirit of friendly competition among players from all walks of life."},
-    {"descd":"Seamless Cross-Platform Play"}
-  ]
-
+  {"desc1":"description1 ser ",
+   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
+  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   ]
+ 
 }
+   
